@@ -2,7 +2,7 @@
 Turn bootstrap multilingual websites more flexible
 
 <h1>Problem:</h1>
-<p>When you have a website with both rtl and ltr direction to show data (multilangual), you can't use bootstrap spacing utilities, beacuse pl always mean left, or pr always mean right</p>
+<p>When you have a website with both rtl and ltr direction to show data (multilangual), you can't use bootstrap spacing utilities, beacuse p<strong>l</strong> always mean padding <strong>left</strong>, or p<strong>r</strong> always mean <strong>right</strong></p>
 <h1>Solution:</h1>
 <h4>When you are in <strong>rtl</strong> mode then:</h4>
   <p><strong>Side</strong> mean right</p>
