@@ -19,7 +19,7 @@ Turn bootstrap multilingual websites more flexible
    
    <h1>Usage:</h1>
    
-   <p>add one of the css files based in your current language direction</p>
+   <p>add one of the css files based on your current language direction</p>
    
    <h1>Supported Class:</h1>
    <p>p (padding): example: p-side-3</p>
