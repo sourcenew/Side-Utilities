@@ -22,12 +22,12 @@ Turn bootstrap multilingual websites more flexible
    <p>add one of the css files based on your current language direction</p>
    
    <h1>Supported Class:</h1>
-   <p>p (padding): example: p-side-3</p>
-   <p>m (margin): example: m-side-3</p>
-   <p>float: example: float-side or float-md-unside</p>
-   <p>text: example: text-side or text-lg-unside</p>
-   <p>border: example: border-side</p>
-   <p>direction: example: direction-side</p>
-   <p>brea: col-break for break bootstrap flex row to new line</p>
+   <p>p (padding), example: p-side-3</p>
+   <p>m (margin), example: m-side-3</p>
+   <p>float, example: float-side or float-md-unside</p>
+   <p>text, example: text-side or text-lg-unside</p>
+   <p>border, example: border-side</p>
+   <p>direction, example: direction-side</p>
+   <p>break, col-break for break bootstrap flex row to new line</p>
    
    
